@@ -90,7 +90,7 @@
 
 10. Tools Used
 
-. Data Cleaning & Analysis:Excel, Python.
+. Data Cleaning & Analysis and for quick reporting:Excel
 . Visualization & Reporting: Power BI.
 . Business Intelligence: SQL (for deeper queries), Excel for quick reporting
 
